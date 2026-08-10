@@ -1,0 +1,16 @@
+{
+  "name": "sasiya-ai-bot",
+  "version": "2.0.0",
+  "description": "WhatsApp AI Bot with Groq - Natural Human-like Chat",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "qrcode": "^1.5.4",
+    "pino": "^9.5.0",
+    "groq-sdk": "^0.5.0"
+  }
+}
